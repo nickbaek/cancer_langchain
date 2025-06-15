@@ -1,0 +1,5 @@
+langchain>=0.1
+langchain-openai
+langchain-core
+dotenv
+langgraph
